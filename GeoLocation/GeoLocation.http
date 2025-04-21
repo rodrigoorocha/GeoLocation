@@ -1,0 +1,6 @@
+@GeoLocation_HostAddress = http://localhost:5299
+
+GET {{GeoLocation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

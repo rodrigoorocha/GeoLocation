@@ -1,0 +1,1038 @@
+[
+    {
+        "id": 75,
+        "name": "CTO-RJO-023",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://localhost:8080/api/v1/geographicLocationManagement/75",
+        "geometry": [
+            {
+                "x": -43.182978,
+                "y": -22.910159,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "name": "CTO-RJO-040",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/79",
+        "geometry": [
+            {
+                "x": -43.184067,
+                "y": -22.910302,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "CTO-RJO-004",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/81",
+        "geometry": [
+            {
+                "x": -43.185696,
+                "y": -22.909487,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "CTO-RJO-015",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/82",
+        "geometry": [
+            {
+                "x": -43.185768,
+                "y": -22.909566,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "CTO-RJO-027",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/83",
+        "geometry": [
+            {
+                "x": -43.187365,
+                "y": -22.909922,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "CTO-RJO-049",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/84",
+        "geometry": [
+            {
+                "x": -43.18096,
+                "y": -22.905457,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "CTO-RJO-019",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/87",
+        "geometry": [
+            {
+                "x": -43.183474,
+                "y": -22.912153,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "name": "CTO-RJO-059",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/88",
+        "geometry": [
+            {
+                "x": -43.177526,
+                "y": -22.905719,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "CTO-RJO-030",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/89",
+        "geometry": [
+            {
+                "x": -43.186128,
+                "y": -22.913078,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "CTO-RJO-001",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/90",
+        "geometry": [
+            {
+                "x": -43.183102,
+                "y": -22.910234,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "CTO-RJO-011",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/91",
+        "geometry": [
+            {
+                "x": -43.186128,
+                "y": -22.913078,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "CTO-RJO-053",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/94",
+        "geometry": [
+            {
+                "x": -43.17917,
+                "y": -22.905732,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "name": "CTO-RJO-006",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/96",
+        "geometry": [
+            {
+                "x": -43.186747,
+                "y": -22.91137,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "name": "CTO-RJO-041",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/98",
+        "geometry": [
+            {
+                "x": -43.18028,
+                "y": -22.904015,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "CTO-RJO-044",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/100",
+        "geometry": [
+            {
+                "x": -43.181609,
+                "y": -22.903454,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "CTO-RJO-042",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/105",
+        "geometry": [
+            {
+                "x": -43.180411,
+                "y": -22.903788,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "CTO-RJO-054",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/106",
+        "geometry": [
+            {
+                "x": -43.179808,
+                "y": -22.904504,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "CTO-RJO-045",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/108",
+        "geometry": [
+            {
+                "x": -43.182225,
+                "y": -22.904121,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "CTO-RJO-012",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/110",
+        "geometry": [
+            {
+                "x": -43.188335,
+                "y": -22.913889,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "CTO-RJO-057",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/113",
+        "geometry": [
+            {
+                "x": -43.178733,
+                "y": -22.905475,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "CTO-RJO-002",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/115",
+        "geometry": [
+            {
+                "x": -43.183623,
+                "y": -22.909137,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "CTO-RJO-005",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/116",
+        "geometry": [
+            {
+                "x": -43.187259,
+                "y": -22.909882,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "name": "CTO-RJO-055",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/117",
+        "geometry": [
+            {
+                "x": -43.179387,
+                "y": -22.904271,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "CTO-RJO-021",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/119",
+        "geometry": [
+            {
+                "x": -43.18028,
+                "y": -22.904015,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "CTO-RJO-003",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/121",
+        "geometry": [
+            {
+                "x": -43.184621,
+                "y": -22.909182,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "CTO-RJO-036",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/122",
+        "geometry": [
+            {
+                "x": -43.181677,
+                "y": -22.903419,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "CTO-RJO-056",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/123",
+        "geometry": [
+            {
+                "x": -43.179045,
+                "y": -22.904905,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "CTO-RJO-046",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/125",
+        "geometry": [
+            {
+                "x": -43.182482,
+                "y": -22.903687,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "CTO-RJO-050",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/126",
+        "geometry": [
+            {
+                "x": -43.180275,
+                "y": -22.905438,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "name": "CTO-RJO-048",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/127",
+        "geometry": [
+            {
+                "x": -43.180465,
+                "y": -22.905182,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "name": "CTO-RJO-007",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/128",
+        "geometry": [
+            {
+                "x": -43.185198,
+                "y": -22.910925,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "CTO-RJO-013",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/131",
+        "geometry": [
+            {
+                "x": -43.188892,
+                "y": -22.914083,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "CTO-RJO-009",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/132",
+        "geometry": [
+            {
+                "x": -43.183474,
+                "y": -22.912153,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "name": "CTO-RJO-060",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/134",
+        "geometry": [
+            {
+                "x": -43.177068,
+                "y": -22.905443,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "name": "CTO-RJO-047",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/135",
+        "geometry": [
+            {
+                "x": -43.179856,
+                "y": -22.904643,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "name": "CTO-RJO-010",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/139",
+        "geometry": [
+            {
+                "x": -43.184763,
+                "y": -22.912651,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "CTO-RJO-014",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/143",
+        "geometry": [
+            {
+                "x": -43.18847,
+                "y": -22.911487,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "CTO-RJO-043",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/144",
+        "geometry": [
+            {
+                "x": -43.181392,
+                "y": -22.903838,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "CTO-RJO-051",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/146",
+        "geometry": [
+            {
+                "x": -43.179979,
+                "y": -22.905886,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "name": "CTO-RJO-008",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/152",
+        "geometry": [
+            {
+                "x": -43.184077,
+                "y": -22.910538,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "name": "CTO-RJO-052",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/153",
+        "geometry": [
+            {
+                "x": -43.180635,
+                "y": -22.906045,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "name": "CTO-RJO-058",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/158",
+        "geometry": [
+            {
+                "x": -43.178332,
+                "y": -22.906179,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "name": "CTO-RJO-061",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/180",
+        "geometry": [
+            {
+                "x": -43.182439,
+                "y": -22.900194,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "name": "CTO-RJO-062",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/203",
+        "geometry": [
+            {
+                "x": -43.183734,
+                "y": -22.898756,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "name": "CTO-RJO-063",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/204",
+        "geometry": [
+            {
+                "x": -43.183368,
+                "y": -22.900206,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "name": "CTO-RJO-064",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/205",
+        "geometry": [
+            {
+                "x": -43.183087,
+                "y": -22.900747,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "name": "CTO-RJO-065",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/206",
+        "geometry": [
+            {
+                "x": -43.182895,
+                "y": -22.901119,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "name": "CTO-RJO-066",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/207",
+        "geometry": [
+            {
+                "x": -43.182055,
+                "y": -22.900552,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "name": "CTO-RJO-067",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/208",
+        "geometry": [
+            {
+                "x": -43.181634,
+                "y": -22.899514,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "name": "CTO-RJO-068",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/209",
+        "geometry": [
+            {
+                "x": -43.182431,
+                "y": -22.898319,
+                "z": 0.0
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "CTO-RJO-033",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/107",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "CTO-SPO-001",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/40",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "CTO-SPO-003",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/42",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "CTO-SPO-004",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/43",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "CTO-RJO-022",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/99",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "CTO-SPO-005",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/44",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "CTO-SPO-002",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/41",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "name": "CTO-SPO-006",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/62",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "CTO-RJO-034",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/104",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "name": "CTO-RJO-016",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/141",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "CTO-RJO-024",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/145",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "name": "CTO-RJO-035",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/155",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "CTO-RJO-018",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/157",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "CTO-RJO-025",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/101",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "name": "CTO-RJO-017",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/156",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "CTO-RJO-026",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/93",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "CTO-RJO-037",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/130",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "CTO-RJO-028",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/95",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "CTO-RJO-038",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/111",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "CTO-RJO-020",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/97",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "CTO-RJO-029",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/114",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "name": "CTO-RJO-032",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/138",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "CTO-RJO-039",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/147",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "CTO-RJO-031",
+        "geometryType": "Point",
+        "spatialRef": "WGS84",
+        "href": "http://107.22.132.90:8080/api/v1/geographicLocationManagement/92",
+        "geometry": [
+            {
+                "x": null,
+                "y": null,
+                "z": null
+            }
+        ]
+    }
+]

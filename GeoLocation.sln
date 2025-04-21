@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLocation", "GeoLocation\GeoLocation.csproj", "{D93A660A-A1C1-4E16-B807-463CD966FDE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoLocation.Tests", "GeoLocation.Tests\GeoLocation.Tests.csproj", "{6FB3781A-CB41-4332-8966-6A7590A7DD1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D93A660A-A1C1-4E16-B807-463CD966FDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93A660A-A1C1-4E16-B807-463CD966FDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93A660A-A1C1-4E16-B807-463CD966FDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93A660A-A1C1-4E16-B807-463CD966FDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FB3781A-CB41-4332-8966-6A7590A7DD1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB3781A-CB41-4332-8966-6A7590A7DD1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB3781A-CB41-4332-8966-6A7590A7DD1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB3781A-CB41-4332-8966-6A7590A7DD1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B77D7DC4-6376-4CEE-82E4-031F7786E1A7}
+	EndGlobalSection
+EndGlobal
